@@ -1,0 +1,15 @@
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\bin\Debug\net6.0\SoChinhPhuong.exe
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\bin\Debug\net6.0\SoChinhPhuong.deps.json
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\bin\Debug\net6.0\SoChinhPhuong.runtimeconfig.json
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\bin\Debug\net6.0\SoChinhPhuong.dll
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\bin\Debug\net6.0\SoChinhPhuong.pdb
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.dll
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\refint\SoChinhPhuong.dll
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.pdb
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\SoChinhPhuong.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\SoChinhPhuong\SoChinhPhuong\obj\Debug\net6.0\ref\SoChinhPhuong.dll
